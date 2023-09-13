@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://114-101-77-17.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-234/aa1b2170/1812844106-0/aa1b2170db51e16bb5cf0cc6cf2360ea/c-m14?v=5&t=1694712818&s=169471281821542cb7ad023f4e62a6248a8eb9c932&r=7PUY34&bzc=1&bzs=1818280971&filename=HarmonyOS4_For_MI6_DEV.zip&x-mf-biz-cid=1002193a-c8b4-4fb6-abe3-4054c0a13aa1-63d50b&auto_redirect=0&xmfcid=e58fa6b8-c951-409d-996d-d3e2e914ddcf-1-abf611255
+  ROM_NAME: Generic
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
